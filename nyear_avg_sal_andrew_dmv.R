@@ -3,7 +3,7 @@
 salnyr_ACF <- NULL
 
 sal_ACF <- matrix(rep(NA, sims*time_horizon), nrow=sims, ncol=time_horizon)
-sal_ACF[, 1] <- 92000
+sal_ACF[, 1] <- # [your input here]
 
 raise_mu <- .03
 raise_sd <- .02
